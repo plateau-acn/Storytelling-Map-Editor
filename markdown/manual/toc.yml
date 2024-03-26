@@ -1,0 +1,24 @@
+- name: WebGIS「Re:Earth」のスクロール型ストーリーテリング機能
+  href: ../index.md
+- name: 利用を開始する
+  items:
+  - name: 操作マニュアル
+    items:
+    - name: ストーリーテリングプロジェクトの作成
+      href: userMan01.md
+    - name: ストーリーテリングの作成・編集
+      href: userMan02.md
+    - name: ストーリーテリングの公開
+      href: userMan03.md
+  - name: 操作マニュアル
+    items:
+    - name: 高さによる色分け For Plateau building 3D Tiles
+      href: Style01.md
+    - name: 用途による色分け For Plateau building 3D Tiles
+      href: Style02.md
+    - name: インフォボックスも含めてエクスポートしたマーカーの色・サイズ・画像適用
+      href: Style03.md
+    - name: 「エクスポート機能」からエクスポートしたマーカー（インフォボックス無し）の色・サイズ・画像の適用
+      href: Style04.md
+    - name: 別サイト等で作ったGeoJSONのスタイルを適用
+      href: Style04.md
