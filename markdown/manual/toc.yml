@@ -10,11 +10,11 @@
       href: userMan02.md
     - name: ストーリーテリングの公開
       href: userMan03.md
-  - name: 操作マニュアル
+  - name: スタイルのサンプルコード
     items:
-    - name: 高さによる色分け For Plateau building 3D Tiles
+    - name: 高さによる色分け
       href: Style01.md
-    - name: 用途による色分け For Plateau building 3D Tiles
+    - name: 用途による色分け
       href: Style02.md
     - name: インフォボックスも含めてエクスポートしたマーカーの色・サイズ・画像適用
       href: Style03.md

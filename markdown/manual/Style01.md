@@ -1,4 +1,4 @@
-# （サンプル）高さによる色分け For Plateau building 3D Tiles
+# 高さによる色分け For Plateau building 3D Tiles
 
 ```jsx
 {

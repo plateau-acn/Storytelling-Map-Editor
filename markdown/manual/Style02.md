@@ -1,4 +1,4 @@
-# （サンプル）用途による色分け For Plateau building 3D Tiles
+# 用途による色分け For Plateau building 3D Tiles
 
 ```json
 {

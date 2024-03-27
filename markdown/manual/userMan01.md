@@ -204,7 +204,7 @@
 
 ## 3D Tilesの読み込み
 
-- 12/9ワークショップにて使用する3D TilesのURLは以下の通り
+- 実証実験で利用した3D TilesのURLは以下の通り
     - 都市モデル（LOD2）：[https://assets.cms.plateau.reearth.io/assets/f1/ddaa47-16ef-46f7-98b9-1cc76ca76bac/bldg_lod2_no_texture/tileset.json](https://assets.cms.plateau.reearth.io/assets/f1/ddaa47-16ef-46f7-98b9-1cc76ca76bac/bldg_lod2_no_texture/tileset.json)
     - 建物モデル（1街区）：[https://assets.cms.plateau.reearth.io/assets/2c/c6fe5c-192b-4444-b741-695f872aede1/1gaiku_231204/tileset.json](https://assets.cms.plateau.reearth.io/assets/2c/c6fe5c-192b-4444-b741-695f872aede1/1gaiku_231204/tileset.json)
     - 建物モデル（2街区）：[https://assets.cms.plateau.reearth.io/assets/62/a7a2eb-5151-409f-abd1-820f5243d28b/2gaiku_231204/tileset.json](https://assets.cms.plateau.reearth.io/assets/62/a7a2eb-5151-409f-abd1-820f5243d28b/2gaiku_231204/tileset.json)
